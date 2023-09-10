@@ -1,7 +1,7 @@
 # Linkr
   Vai ai uma prévia do nosso Linkr!
   
-  <img src="/image-readme.jpg">
+  <img src="/image-readme2.jpg">
 
   
   Quer testar e ver funcionando?
