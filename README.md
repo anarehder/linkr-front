@@ -1,11 +1,11 @@
 # Linkr
   Vai ai uma prévia do nosso Linkr!
+  
   <img src="/image-readme.jpg">
 
   
   Quer testar e ver funcionando?
-
-  <linkr-front-bay.vercel.app>
+  [Linkr](https://linkr-front-bay.vercel.app)
 
   
 ## Descrição
